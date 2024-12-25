@@ -57,6 +57,9 @@ flowchart TB
     class SessionState,State state;
 ```
 
+# Demo
+https://github.com/user-attachments/assets/1845be23-7a0f-4a94-ae61-c7fcbbf2481d
+
 ## Main Components
 
 ### Frontend (Streamlit)
