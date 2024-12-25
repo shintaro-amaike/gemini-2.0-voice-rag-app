@@ -1,0 +1,20 @@
+# Core dependencies
+streamlit>=1.31.0
+
+# LangChain
+langchain>=0.3.13
+langchain-core>=0.3.28
+langchain-community>=0.3.13
+
+# Vector store and embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+torch>=2.1.0
+
+# PDF processing
+PyPDF2>=3.0.0
+
+# Audio processing and transcription
+transformers>=4.37.2
+audio_recorder_streamlit>=0.0.8
+librosa>=0.10.1
